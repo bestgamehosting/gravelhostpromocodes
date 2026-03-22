@@ -20,8 +20,7 @@ Here is the best verified Gravel Host promo deal confirmed working in March 2026
 - **Status:** ✅ Verified 2026
 - 👉 **[Grab This Deal](https://allcouponcodes.net/refer/gravelhost)**
 
-> [!EXCLUSIVE DEAL]
-GET **80% EXCLUSIVE DISCOUNT ON GRAVEL HOST** check here for Activate the Deal :👉 https://allcouponcodes.net/refer/gravelhost
+> GET **80% EXCLUSIVE DISCOUNT ON GRAVEL HOST** check here for Activate the Deal :👉 https://allcouponcodes.net/refer/gravelhost
 
 > [!WARNING]
 > Only one promo code can be applied per order on Gravel Host. Always use our exclusive link above for the biggest guaranteed savings.
@@ -104,7 +103,7 @@ No minimum purchase is required to use a Gravel Host promo code. However, some c
 <details>
 <summary><strong>Can I use multiple promo codes on one order?</strong></summary>
 <br>
-No. Only one promo code can be applied per purchase on Gravel Host entering a second code will simply replace the first. So always use our [exclusive 80% discount link](https://allcouponcodes.net/refer/gravelhost) for the biggest savings no code needed.
+No. Only one promo code can be applied per purchase on Gravel Host entering a second code will simply replace the first. So always use our [exclusive 80% off link](https://allcouponcodes.net/refer/gravelhost) for the biggest savings no code needed.
 </details>
 
 <details>
@@ -112,7 +111,3 @@ No. Only one promo code can be applied per purchase on Gravel Host entering a se
 <br>
 Yes. Gravel Host supports multiple Minecraft Java versions including Java 8, 11, 16, 17, 19, and 21 which covers the full range of modded server environments. From the Configure page, you can select your preferred server version (Vanilla, Forge, Fabric, Paper, and more) directly from the dropdown. Full FTP access is also included on all plans, so uploading modpacks, plugins, and custom files is straightforward without needing third-party tools.
 </details>
-
----
-
-*Got a working code I haven't listed? Open a PR or drop it in the Issues tab — I keep this page updated so nothing goes stale. And don't forget — the best deal is always through our [exclusive 80% off link](https://allcouponcodes.net/refer/gravelhost).*
