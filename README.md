@@ -22,7 +22,7 @@ Here are all verified Gravel Host promo codes confirmed working in March 2026:
 
  ## 📋 How to Apply Your Gravel Host Promo Code
  
-Most people either skip a step or miss where the code box actually lives. Here's the exact process based on Gravel Host's real checkout flow — so you don't leave savings on the table.
+Most people either skip a step or miss where the code box actually lives. Here's the exact process — based on Gravel Host's real checkout flow — so you don't leave savings on the table.
  
 **Step 1 — Go to the exclusive deal link and choose your game**
  
@@ -31,6 +31,8 @@ Head to [gravelhost.com](https://gravelhost.com) and pick your hosting category 
 **Step 2 — Choose your plan**
  
 Browse the available plans and click **"Order Now"** on the one that fits your needs. Gravel Host offers Budget, Premium, and Ultimate tier plans — each running different hardware specs depending on your performance requirements.
+ 
+![Gravel Host Pricing Plans](https://raw.githubusercontent.com/bestgamehosting/gravelhostpromocodes/refs/heads/main/Graval-host-pricing.png)
  
 **Step 3 — Select your billing cycle and configure your server**
  
@@ -41,7 +43,7 @@ This is where the **Configure** page opens up. Here you'll:
 - Choose your preferred **Location** from the dropdown
 - Set your **Dedicated IP** preference and **Backup** option (1 Backup is free by default)
  
-![Gravel Host Configure Page — Select billing cycle, version, location, and backup options](checkout-configure.png)
+![Gravel Host Configure Page — Select billing cycle, version, location, and backup options](https://raw.githubusercontent.com/bestgamehosting/gravelhostpromocodes/refs/heads/main/Gravel-host-configure.png)
  
 **Step 4 — Enter your server name**
  
@@ -55,11 +57,10 @@ Below the server name you'll see the **Available Add-ons** section. This include
  
 This is the most important step. On the **Review & Checkout** page, scroll down past your order summary and you'll see a field that says **"Enter promo code if you have one"** with a blue **"Validate Code"** button right below it. Paste your code exactly as it appears — no extra spaces — and click **Validate Code.** Your order total will drop immediately to reflect the discount. Once you confirm the savings are showing correctly, click the green **"Checkout"** button to complete your purchase.
  
-![Gravel Host Review & Checkout Page — Enter promo code and click Validate Code to apply discount](checkout-review.png)
+![Gravel Host Review & Checkout Page — Enter promo code and click Validate Code to apply discount](https://raw.githubusercontent.com/bestgamehosting/gravelhostpromocodes/refs/heads/main/Gravel-host-promo-code.png)
  
 > [!TIP]
 > **Code not working?** The most common reasons are: the code has expired, it's plan-specific and doesn't apply to your cart, or it's restricted to first-time customers. Move to the next code on the list above and try again.
- 
 ---
  
 ## ⚡ Why Choose Gravel Host for Game Servers?
