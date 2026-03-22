@@ -18,11 +18,11 @@ Here are all verified Gravel Host promo codes confirmed working in March 2026:
 | [`MASTERSQUID`](https://gravelhost.com) | **35% Off** | Minecraft Hosting | ✅ Verified |
  
 > [!WARNING]
-> Only one promo code can be applied per order on Gravel Host. Always start with the highest discount code — right now that's **FLOWTIVES at 50% off.** If it doesn't fire, work your way down the list.
+> Only one promo code can be applied per order on Gravel Host. Always start with the highest discount code right now that's **FLOWTIVES at 50% off.** If it doesn't fire, work your way down the list.
 
  ## 📋 How to Apply Your Gravel Host Promo Code
  
-Most people either skip a step or miss where the code box actually lives. Here's the exact process — based on Gravel Host's real checkout flow — so you don't leave savings on the table.
+Most people either skip a step or miss where the code box actually lives. Here's the exact process based on Gravel Host's real checkout flow — so you don't leave savings on the table.
  
 **Step 1 — Go to the exclusive deal link and choose your game**
  
