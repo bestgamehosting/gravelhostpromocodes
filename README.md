@@ -1,5 +1,5 @@
 <!-- robots: index, follow -->
-```
+
 # Gravel Host Promo Code & Discount Deals (2026)
 
 I've been covering game server hosting deals for a while now, and one question I keep getting is *"are there any working Gravel Host promo codes?"*
