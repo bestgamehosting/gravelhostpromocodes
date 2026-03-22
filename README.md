@@ -12,7 +12,7 @@ No fluff here. Let's get straight to the discounts.
 
 Here is the best verified Gravel Host promo deal confirmed working in March 2026:
 
-### 🎟️ Gravel Host Promo Code #1
+### Gravel Host Promo Code
 
 - **Coupon Code:** **`FLOWTIVES`**
 - **Discount:** 50% OFF
